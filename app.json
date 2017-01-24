@@ -1,0 +1,8 @@
+{
+  "name": "demo1",
+  "description": "",
+  "keywords": ["python", "django"],
+  "env": {
+    "DJANGO_SETTINGS_MODULE": "demo1.settings.local"
+  }
+}
